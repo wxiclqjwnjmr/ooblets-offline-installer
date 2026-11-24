@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+Use your Sony PSVR as a VR Headset for your PC. Lets you run SteamVR & Oculus Rift PC VR titles using your PSVR headset.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,12 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **Processor** | Min: Intel® i5-4590 / AMD FX 8350 equivalent / Rec: Intel® i5-4590 / AMD FX 8350 equivalent or greater | Intel Core i5 / Apple M1 |
+| **Graphics** | Min: NVIDIA GeForce® GTX 970 / AMD Radeon™ R9 290 equivalent / Rec: NVIDIA GeForce® GTX 970 / AMD Radeon™ R9 290 equivalent… | Metal-capable GPU |
+| **DirectX** | Version 11 | Version 11 |
+| **Storage** | 40 MB available space | 40 MB available space |
+| **OS *** | Windows 7 | Windows 7 |
+| **Additional Notes** | Sony Playstation VR Headset | Sony Playstation VR Headset |
 
 ---
 
